@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeBox", "RecipeBox\RecipeBox.csproj", "{D73AAEBC-6F50-428E-9F6D-F16DE744317E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Recipes", "Recipes\Recipes.sqlproj", "{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73AAEBC-6F50-428E-9F6D-F16DE744317E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73AAEBC-6F50-428E-9F6D-F16DE744317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73AAEBC-6F50-428E-9F6D-F16DE744317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73AAEBC-6F50-428E-9F6D-F16DE744317E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C185E14-7D91-4B5D-9B3C-4C9D4DF6D7BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B58A93-EA10-4772-B6EF-DD468035E9F9}
+	EndGlobalSection
+EndGlobal
